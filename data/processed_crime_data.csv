@@ -1,0 +1,194 @@
+Continent,Region,Country,Criminality avg,Resilience avg,Human trafficking,Cyber-dependent crimes,State-embedded actors,Criminal markets avg,Criminal actors avg,Anti-money laundering,Financial crimes,Extortion and protection racketeering,Crime_Level,Resilience_Level
+Asia,Southern Asia,Afghanistan,7.1,1.5,9.0,4.0,9.0,7.0,7.2,1.0,7.5,6.0,High,Low
+Africa,North Africa,Libya,6.93,1.54,8.5,3.5,9.5,6.57,7.3,1.0,9.5,9.0,High,Low
+Asia,South-Eastern Asia,Myanmar,8.15,1.63,8.5,7.5,9.0,7.7,8.6,2.0,8.5,7.5,High,Low
+Asia,Western Asia,Yemen,6.57,1.75,9.0,1.5,8.0,5.63,7.5,2.0,8.0,8.0,High,Low
+Africa,Central Africa,Central African Republic,6.75,1.79,7.5,2.0,9.0,5.6,7.9,2.0,3.5,6.5,High,Low
+Africa,East Africa,Somalia,6.13,1.79,8.0,2.5,7.0,5.27,7.0,2.0,7.0,9.5,Medium,Low
+Asia,Eastern Asia,"Korea, DPR",4.82,1.79,8.5,9.0,10.0,5.73,3.9,1.0,8.0,1.5,Medium,Low
+Americas,South America,Venezuela,6.72,1.88,7.5,3.5,9.0,6.03,7.4,2.0,8.0,7.5,High,Low
+Africa,East Africa,South Sudan,6.32,1.88,8.5,1.0,9.0,5.13,7.5,1.5,7.5,5.0,Medium,Low
+Asia,Western Asia,Syria,7.07,1.92,8.5,4.5,10.0,6.43,7.7,2.0,8.0,8.0,High,Low
+Americas,Caribbean & Central,Nicaragua,5.72,2.08,7.0,3.5,9.0,5.23,6.2,2.5,4.0,2.0,Medium,Low
+Africa,Central Africa,Burundi,4.87,2.17,8.5,2.0,9.0,4.63,5.1,1.5,6.5,4.5,Medium,Low
+Asia,Central Asia and the Caucasus,Turkmenistan,4.4,2.21,8.5,2.5,8.5,4.4,4.4,3.5,5.5,5.0,Low,Low
+Africa,Central Africa,Equatorial Guinea,4.38,2.21,4.5,1.5,9.0,3.57,5.2,2.0,6.0,2.0,Low,Low
+Africa,East Africa,Eritrea,3.97,2.33,9.0,1.5,9.5,3.93,4.0,3.0,4.0,1.0,Low,Low
+Africa,Central Africa,"Congo, Dem, Rep,",7.35,2.38,7.5,2.5,9.0,6.2,8.5,2.5,7.0,7.5,High,Low
+Africa,West Africa,Mali,5.93,2.38,7.5,5.0,8.0,6.47,5.4,2.5,7.0,8.0,Medium,Low
+Africa,Southern Africa,Comoros,3.92,2.38,5.0,1.5,7.0,3.73,4.1,4.0,5.0,1.5,Low,Low
+Africa,Central Africa,Chad,5.5,2.42,7.0,3.0,8.5,5.1,5.9,2.0,3.0,5.0,Medium,Low
+Americas,Caribbean & Central,Haiti,5.93,2.46,7.5,3.0,8.0,5.77,6.1,2.5,7.5,7.0,Medium,Low
+Asia,Central Asia and the Caucasus,Tajikistan,5.45,2.58,7.0,2.0,9.0,4.8,6.1,3.0,6.0,3.0,Medium,Low
+Africa,West Africa,Guinea-Bissau,5.1,2.58,5.5,2.0,8.5,4.6,5.6,3.0,6.0,4.0,Medium,Low
+Africa,East Africa,Sudan,6.37,2.71,8.0,2.5,8.5,5.23,7.5,3.5,7.0,4.5,Medium,Low
+Americas,South America,Suriname,4.77,3.04,4.0,5.0,7.5,4.53,5.0,2.0,4.5,3.0,Medium,Low
+Asia,Western Asia,Iran,7.03,3.13,8.0,8.0,9.5,7.37,6.7,2.5,9.0,4.5,High,Low
+Africa,Southern Africa,Zimbabwe,5.47,3.13,5.5,4.5,8.0,5.03,5.9,4.0,5.5,2.5,Medium,Low
+Africa,West Africa,Guinea,4.58,3.13,7.0,2.0,7.5,4.77,4.4,3.0,5.5,1.0,Medium,Low
+Africa,North Africa,Mauritania,4.38,3.13,7.5,1.5,6.5,4.27,4.5,4.5,6.0,2.5,Low,Low
+Africa,Central Africa,Cameroon,6.27,3.17,6.5,5.0,8.0,6.23,6.3,3.5,6.0,6.0,Medium,Low
+Asia,Western Asia,Iraq,7.13,3.21,7.5,2.0,8.5,6.27,8.0,4.0,9.0,7.0,High,Low
+Americas,Caribbean & Central,El Salvador,5.92,3.21,7.0,5.5,7.5,5.43,6.4,3.5,6.5,7.5,Medium,Low
+Europe,Central & Eastern Europe,Belarus,5.87,3.25,7.0,7.0,9.0,5.33,6.4,4.5,8.0,4.0,Medium,Low
+Africa,West Africa,Liberia,5.5,3.25,6.0,4.5,6.5,5.4,5.6,3.5,7.5,4.0,Medium,Low
+Africa,Central Africa,Gabon,4.85,3.25,5.5,2.5,8.0,4.6,5.1,2.0,7.0,1.0,Medium,Low
+Africa,Central Africa,"Congo, Rep,",4.78,3.25,6.5,2.5,8.0,4.47,5.1,3.0,4.0,3.0,Medium,Low
+Africa,Southern Africa,Mozambique,6.2,3.29,4.5,3.0,9.0,5.9,6.5,3.0,6.5,5.0,Medium,Low
+Oceania,Melanesia,Papua New Guinea,5.72,3.29,7.0,4.0,8.5,5.33,6.1,3.0,9.0,2.0,Medium,Low
+Americas,Caribbean & Central,Belize,4.87,3.29,5.5,3.5,5.5,4.43,5.3,2.0,4.0,3.5,Medium,Low
+Africa,Southern Africa,eSwatini,4.38,3.29,4.0,5.0,6.0,3.87,4.9,5.0,5.5,4.5,Low,Low
+Africa,Southern Africa,Madagascar,5.58,3.33,6.0,2.0,8.0,5.27,5.9,4.5,6.0,5.5,Medium,Low
+Asia,Western Asia,Turkey,7.03,3.38,8.0,5.0,9.0,6.77,7.3,2.0,8.0,6.0,High,Low
+Americas,South America,Paraguay,7.52,3.42,7.5,7.5,9.0,6.73,8.3,2.5,7.5,7.0,High,Low
+Asia,Southern Asia,Sri Lanka,4.92,3.42,6.5,3.0,7.0,4.83,5.0,5.0,4.0,7.5,Medium,Low
+Asia,Western Asia,Lebanon,7.1,3.46,7.5,4.0,9.5,6.3,7.9,2.5,9.0,5.5,High,Low
+Asia,South-Eastern Asia,Laos,6.12,3.46,7.0,5.5,6.5,6.33,5.9,3.5,8.0,5.0,Medium,Low
+Africa,West Africa,Burkina Faso,5.92,3.46,7.0,5.5,7.0,5.83,6.0,4.0,5.5,6.5,Medium,Low
+Africa,West Africa,Niger,5.7,3.46,7.5,1.0,8.5,5.7,5.7,4.0,6.5,4.0,Medium,Low
+Africa,West Africa,Benin,5.32,3.5,6.5,4.5,6.0,5.43,5.2,4.0,6.0,4.0,Medium,Low
+Asia,South-Eastern Asia,Cambodia,6.85,3.63,8.5,7.5,8.5,6.7,7.0,4.0,8.0,6.5,High,Low
+Europe,Central & Eastern Europe,Russia,6.87,3.79,7.5,9.0,8.5,6.83,6.9,3.5,8.5,6.0,High,Low
+Asia,Central Asia and the Caucasus,Kyrgyzstan,5.32,3.83,7.0,2.0,8.5,4.63,6.0,3.0,6.0,3.5,Medium,Low
+Africa,North Africa,Egypt,5.05,3.83,6.0,2.5,8.5,5.1,5.0,5.0,8.0,3.5,Medium,Low
+Asia,South-Eastern Asia,Timor-Leste,4.08,3.83,4.5,2.0,4.5,3.67,4.5,4.0,5.5,4.0,Low,Low
+Africa,East Africa,Uganda,6.55,3.88,7.5,6.0,8.0,6.4,6.7,3.0,7.5,5.0,High,Low
+Europe,Central & Eastern Europe,Bosnia and Herzegovina,5.85,3.88,5.5,4.5,8.0,5.3,6.4,3.5,6.0,5.0,Medium,Low
+Asia,Central Asia and the Caucasus,Uzbekistan,4.95,3.88,7.5,3.0,6.5,4.6,5.3,3.5,6.0,4.0,Medium,Low
+Europe,Central & Eastern Europe,Moldova,5.6,3.92,7.5,7.5,8.0,5.2,6.0,3.5,8.0,5.5,Medium,Low
+Africa,Southern Africa,Lesotho,3.92,3.92,4.0,1.0,6.0,3.43,4.4,4.0,5.0,2.0,Low,Low
+Asia,Southern Asia,Pakistan,6.03,3.96,8.0,5.0,7.5,6.27,5.8,4.0,7.0,6.5,Medium,Low
+Asia,Central Asia and the Caucasus,Azerbaijan,4.8,3.96,4.5,3.0,7.5,4.1,5.5,4.0,5.0,4.0,Medium,Low
+Asia,Southern Asia,Nepal,6.57,4.0,8.0,3.0,7.5,6.03,7.1,3.5,7.0,6.5,High,Medium
+Asia,Western Asia,Saudi Arabia,6.23,4.0,8.0,7.5,8.5,6.57,5.9,5.5,8.0,2.0,Medium,Medium
+Americas,South America,Guyana,5.97,4.04,5.5,2.0,8.0,5.13,6.8,4.0,8.5,7.0,Medium,Medium
+Africa,West Africa,Sierra Leone,4.95,4.04,5.0,1.5,6.5,4.6,5.3,4.5,4.0,2.0,Medium,Medium
+Americas,Caribbean & Central,Honduras,7.05,4.08,7.0,6.5,8.5,6.0,8.1,4.0,7.5,8.5,High,Medium
+Americas,Caribbean & Central,Guatemala,6.6,4.08,7.0,5.0,8.0,6.1,7.1,4.5,6.5,8.0,High,Medium
+Asia,Southern Asia,Maldives,4.27,4.08,7.0,3.5,5.0,3.53,5.0,3.5,3.5,2.5,Low,Medium
+Africa,East Africa,Tanzania,6.2,4.13,6.5,5.0,6.5,6.4,6.0,5.0,5.5,4.0,Medium,Medium
+Americas,Caribbean & Central,Mexico,7.57,4.21,8.0,7.5,7.5,8.13,7.0,4.0,8.5,9.0,High,Medium
+Asia,South-Eastern Asia,Philippines,6.63,4.21,7.5,7.5,8.0,6.57,6.7,5.0,8.0,5.5,High,Medium
+Asia,South-Eastern Asia,Indonesia,6.85,4.25,7.5,7.5,8.0,6.6,7.1,5.0,8.0,6.0,High,Medium
+Oceania,Melanesia,Kiribati,2.45,4.33,5.0,2.0,1.5,2.6,2.3,4.0,4.0,2.5,Low,Medium
+Americas,South America,Peru,6.4,4.38,7.0,5.0,7.5,6.2,6.6,4.0,5.5,4.5,Medium,Medium
+Africa,North Africa,Algeria,4.88,4.38,4.0,4.0,7.5,5.17,4.6,5.0,8.0,3.0,Medium,Medium
+Africa,East Africa,Djibouti,4.65,4.38,6.5,1.5,5.5,4.3,5.0,5.0,6.5,3.5,Medium,Medium
+Asia,Southern Asia,Bangladesh,5.12,4.42,8.0,5.0,7.0,5.03,5.2,5.5,4.5,6.5,Medium,Medium
+Europe,Southern Europe,Cyprus,4.43,4.46,5.5,4.0,4.0,3.97,4.9,3.5,5.0,3.0,Low,Medium
+Africa,Central Africa,Angola,5.58,4.5,6.5,5.0,8.0,5.17,6.0,5.0,5.0,2.0,Medium,Medium
+Africa,West Africa,Togo,5.23,4.5,5.5,5.0,7.5,4.77,5.7,3.5,3.5,1.5,Medium,Medium
+Africa,North Africa,Tunisia,4.45,4.5,4.0,4.0,6.5,5.0,3.9,5.5,8.0,2.0,Low,Medium
+Europe,Central & Eastern Europe,Ukraine,6.48,4.54,7.5,8.5,8.0,6.27,6.7,4.5,6.5,5.0,Medium,Medium
+Africa,Southern Africa,Zambia,4.73,4.54,5.0,4.0,6.5,4.47,5.0,5.5,5.0,2.5,Medium,Medium
+Asia,Central Asia and the Caucasus,Kazakhstan,4.47,4.54,6.0,2.5,6.5,4.33,4.6,4.0,5.0,3.5,Low,Medium
+Africa,Southern Africa,Namibia,4.3,4.54,3.5,5.0,5.0,4.1,4.5,4.0,4.5,3.0,Low,Medium
+Africa,Southern Africa,Malawi,4.48,4.58,5.0,2.5,4.0,4.77,4.2,6.0,7.0,2.0,Low,Medium
+Americas,Caribbean & Central,Antigua and Barbuda,2.98,4.58,4.0,1.5,3.0,2.67,3.3,3.5,2.5,2.0,Low,Medium
+Asia,South-Eastern Asia,Brunei,2.85,4.58,5.0,4.0,3.0,3.3,2.4,5.5,4.0,2.0,Low,Medium
+Africa,North Africa,Morocco,4.8,4.63,5.5,4.0,7.5,5.1,4.5,3.5,7.5,5.0,Medium,Medium
+Americas,Caribbean & Central,Panama,6.98,4.67,7.5,6.5,7.5,6.67,7.3,3.5,7.5,6.5,High,Medium
+Asia,Southern Asia,Bhutan,3.9,4.71,6.0,2.5,4.0,3.9,3.9,4.0,3.0,2.0,Low,Medium
+Europe,Central & Eastern Europe,Montenegro,5.9,4.75,5.0,5.5,7.0,5.2,6.6,5.0,6.0,5.0,Medium,Medium
+Africa,East Africa,Ethiopia,5.68,4.75,8.0,5.0,5.0,6.07,5.3,7.0,7.0,6.0,Medium,Medium
+Asia,South-Eastern Asia,Vietnam,6.55,4.79,7.0,6.5,7.0,6.5,6.6,5.5,7.0,6.0,High,Medium
+Asia,South-Eastern Asia,Thailand,6.18,4.79,7.0,6.0,6.5,6.77,5.6,5.0,8.0,6.5,Medium,Medium
+Americas,Caribbean & Central,Dominican Republic,5.02,4.79,6.5,3.5,5.5,5.13,4.9,4.0,5.0,4.0,Medium,Medium
+Americas,South America,Bolivia,4.95,4.83,5.0,4.5,6.0,5.0,4.9,4.5,5.0,3.0,Medium,Medium
+Americas,South America,Ecuador,7.07,4.88,6.5,6.5,7.0,6.73,7.4,5.5,6.5,8.0,High,Medium
+Europe,Central & Eastern Europe,Hungary,4.62,4.88,6.5,5.0,7.0,4.73,4.5,5.5,5.5,2.0,Medium,Medium
+Americas,South America,Brazil,6.77,4.92,6.0,8.0,8.5,6.93,6.6,6.0,7.0,7.0,High,Medium
+Africa,Central Africa,Sao Tome and Principe,1.7,4.92,1.5,1.0,3.0,1.7,1.7,3.0,3.0,1.0,Low,Medium
+Europe,Central & Eastern Europe,Serbia,6.22,4.96,6.0,5.0,8.0,5.73,6.7,5.5,7.0,5.5,Medium,Medium
+Americas,Caribbean & Central,"St, Kitts and Nevis",3.52,5.0,3.0,1.5,6.5,2.83,4.2,5.5,4.5,1.0,Low,Medium
+Oceania,Micronesia,Nauru,2.05,5.0,1.5,2.5,3.5,2.2,1.9,7.0,3.0,1.0,Low,Medium
+Oceania,Melanesia,Solomon Islands,4.4,5.08,4.5,1.5,7.0,3.7,5.1,5.0,7.0,2.0,Low,Medium
+Asia,Western Asia,United Arab Emirates,6.37,5.13,8.5,8.0,6.5,7.03,5.7,3.5,9.5,5.0,Medium,Medium
+Africa,West Africa,Côte d'Ivoire,6.02,5.13,7.0,5.5,7.5,5.93,6.1,5.0,6.5,5.5,Medium,Medium
+Europe,Central & Eastern Europe,Albania,5.17,5.13,5.0,6.0,6.5,4.83,5.5,4.0,6.0,3.5,Medium,Medium
+Europe,Southern Europe,Malta,5.0,5.13,5.0,5.5,7.5,4.3,5.7,4.5,8.0,3.0,Medium,Medium
+Americas,Caribbean & Central,Grenada,2.93,5.13,2.0,3.0,3.5,2.67,3.2,5.0,3.0,1.0,Low,Medium
+Oceania,Melanesia,Vanuatu,2.43,5.13,3.5,2.5,3.0,2.67,2.2,3.0,3.5,1.0,Low,Medium
+Europe,Southern Europe,Greece,5.35,5.17,5.5,3.5,7.5,4.7,6.0,5.5,6.5,5.5,Medium,Medium
+Africa,West Africa,Gambia,4.53,5.17,6.0,3.0,6.5,4.67,4.4,5.5,5.5,1.0,Medium,Medium
+Americas,Caribbean & Central,Dominica,2.63,5.17,3.0,3.0,2.0,2.67,2.6,5.5,4.0,1.0,Low,Medium
+Asia,Western Asia,Oman,4.4,5.21,7.0,4.5,4.0,4.9,3.9,5.0,6.5,2.5,Low,Medium
+Asia,Eastern Asia,Mongolia,4.12,5.21,5.0,6.0,5.0,3.83,4.4,4.5,5.0,2.0,Low,Medium
+Africa,Southern Africa,Seychelles,3.9,5.21,4.0,2.5,5.5,3.5,4.3,4.5,4.5,1.0,Low,Medium
+Europe,Southern Europe,San Marino,3.48,5.21,2.0,2.0,5.0,2.37,4.6,4.5,7.5,2.0,Low,Medium
+Asia,Central Asia and the Caucasus,Georgia,3.6,5.25,3.5,5.0,3.5,3.6,3.6,5.0,5.0,3.5,Low,Medium
+Europe,Central & Eastern Europe,North Macedonia,5.03,5.29,5.0,5.5,6.5,4.87,5.2,5.5,6.0,5.0,Medium,Medium
+Europe,Central & Eastern Europe,Slovakia,4.72,5.29,5.0,6.0,6.5,4.73,4.7,5.0,6.5,3.0,Medium,Medium
+Oceania,Polynesia,Tonga,3.7,5.29,3.5,2.0,5.5,3.5,3.9,5.0,4.5,3.0,Low,Medium
+Africa,East Africa,Kenya,7.02,5.33,8.0,8.0,8.0,6.93,7.1,6.0,7.5,7.0,High,Medium
+Europe,Central & Eastern Europe,Bulgaria,5.65,5.33,5.0,6.0,7.5,5.4,5.9,5.5,7.0,5.0,Medium,Medium
+Americas,Caribbean & Central,Trinidad and Tobago,5.2,5.33,6.5,6.0,5.0,4.8,5.6,6.5,6.5,5.0,Medium,Medium
+Oceania,Micronesia,Palau,2.7,5.33,3.5,2.5,2.0,2.9,2.5,5.0,2.5,1.5,Low,Medium
+Americas,Caribbean & Central,Cuba,3.37,5.38,5.5,3.0,3.5,3.63,3.1,5.5,3.5,2.0,Low,Medium
+Americas,Caribbean & Central,"St, Vincent and the Grenadines",3.08,5.38,2.5,3.0,2.0,2.67,3.5,5.5,2.5,1.0,Low,Medium
+Americas,Caribbean & Central,Jamaica,5.8,5.42,5.0,4.5,8.0,4.9,6.7,4.5,7.0,6.0,Medium,Medium
+Asia,Southern Asia,India,5.75,5.42,8.0,7.5,6.0,6.7,4.8,6.5,7.0,7.0,Medium,Medium
+Asia,Western Asia,Qatar,5.45,5.42,8.0,7.0,6.5,5.7,5.2,5.5,7.5,2.0,Medium,Medium
+Asia,Western Asia,Bahrain,4.95,5.42,8.0,7.0,4.0,5.4,4.5,5.5,7.0,1.5,Medium,Medium
+Oceania,Melanesia,Fiji,4.15,5.42,5.0,4.0,3.0,4.3,4.0,6.0,5.5,3.5,Low,Medium
+Africa,West Africa,Ghana,5.8,5.46,7.0,6.0,7.5,6.0,5.6,6.0,6.0,3.5,Medium,Medium
+Africa,Southern Africa,Botswana,4.35,5.46,4.5,5.0,4.0,4.4,4.3,5.0,5.5,4.0,Low,Medium
+Americas,Caribbean & Central,Bahamas,3.75,5.5,5.0,2.5,3.0,3.6,3.9,5.0,3.5,1.5,Low,Medium
+Asia,Western Asia,Kuwait,5.2,5.54,8.0,6.5,6.0,5.7,4.7,5.5,7.0,2.0,Medium,Medium
+Africa,Southern Africa,Mauritius,4.37,5.54,4.5,4.0,6.0,4.13,4.6,4.0,4.5,1.5,Low,Medium
+Africa,Central Africa,Rwanda,3.6,5.54,5.0,4.5,5.0,4.0,3.2,6.0,6.0,1.0,Low,Medium
+Asia,Western Asia,Jordan,4.93,5.58,6.0,5.5,6.0,4.87,5.0,6.5,6.5,4.0,Medium,Medium
+Americas,Caribbean & Central,"St, Lucia",3.53,5.58,4.0,2.0,5.0,2.67,4.4,4.0,2.5,1.0,Low,Medium
+Americas,South America,Colombia,7.75,5.63,8.0,7.0,7.5,7.3,8.2,6.0,8.0,8.5,High,Medium
+Africa,Southern Africa,South Africa,7.18,5.63,4.5,7.0,8.0,6.87,7.5,5.5,7.5,8.0,High,Medium
+Americas,Caribbean & Central,Costa Rica,5.53,5.63,5.0,7.0,2.5,5.37,5.7,4.0,5.5,6.0,Medium,Medium
+Europe,Southern Europe,Monaco,2.58,5.63,2.0,3.0,3.5,1.67,3.5,5.5,2.5,1.0,Low,Medium
+Asia,Eastern Asia,China,6.37,5.67,7.0,8.5,7.0,6.53,6.2,6.5,7.5,5.0,Medium,Medium
+Asia,Central Asia and the Caucasus,Armenia,2.82,5.71,3.0,2.5,3.0,2.93,2.7,6.0,3.0,1.5,Low,Medium
+Africa,West Africa,Nigeria,7.28,5.79,7.5,8.0,7.5,7.37,7.2,5.0,7.0,8.0,High,Medium
+Africa,West Africa,Senegal,5.52,5.79,5.5,5.0,5.0,5.53,5.5,5.0,5.5,4.5,Medium,Medium
+Oceania,Micronesia,Marshall Islands,2.52,5.79,5.0,3.0,3.0,2.73,2.3,4.5,3.5,1.0,Low,Medium
+Oceania,Polynesia,Samoa,2.43,5.83,3.5,2.5,2.5,2.97,1.9,5.5,3.5,1.0,Low,Medium
+Europe,Central & Eastern Europe,Poland,4.48,5.88,5.5,5.5,4.5,4.97,4.0,6.5,6.0,2.5,Low,Medium
+Oceania,Micronesia,Micronesia (Federated States of),3.0,5.88,5.0,2.0,2.5,3.0,3.0,5.0,2.5,1.5,Low,Medium
+Asia,South-Eastern Asia,Malaysia,6.23,5.92,7.5,8.0,6.0,6.67,5.8,6.0,8.0,5.5,Medium,Medium
+Europe,Central & Eastern Europe,Croatia,5.15,5.92,5.0,4.5,6.0,4.9,5.4,6.5,5.5,4.0,Medium,Medium
+Americas,South America,Argentina,5.0,5.96,5.0,5.5,6.0,4.5,5.5,7.0,3.5,5.0,Medium,Medium
+Europe,Central & Eastern Europe,Romania,4.58,6.0,6.0,6.0,3.5,5.27,3.9,5.0,6.0,4.0,Medium,High
+Europe,Central & Eastern Europe,Slovenia,4.37,6.04,4.0,5.0,6.5,4.03,4.7,5.0,6.0,3.0,Low,High
+Asia,Western Asia,Israel,4.85,6.08,6.0,9.0,5.0,5.0,4.7,7.0,6.5,5.0,Medium,High
+Oceania,Polynesia,Tuvalu,1.62,6.08,1.5,1.5,1.5,1.93,1.3,6.5,2.5,1.0,Low,High
+Americas,Caribbean & Central,Barbados,3.07,6.13,4.0,1.5,4.0,2.43,3.7,5.0,2.0,2.0,Low,High
+Americas,South America,Chile,5.18,6.17,6.0,5.0,5.5,5.07,5.3,6.5,4.0,4.5,Medium,High
+Europe,Central & Eastern Europe,Czech Republic,4.68,6.42,5.5,5.5,5.0,4.87,4.5,6.5,6.0,3.5,Medium,High
+Europe,Southern Europe,Italy,6.22,6.46,7.0,6.0,6.5,5.73,6.7,6.0,7.0,7.5,Medium,High
+Europe,Southern Europe,Portugal,4.88,6.5,5.5,5.5,4.5,4.67,5.1,6.5,5.0,3.5,Medium,High
+Africa,West Africa,Cabo Verde,4.28,6.58,4.5,4.5,4.0,3.97,4.6,5.0,4.0,5.0,Low,High
+Europe,Southern Europe,Spain,5.9,6.75,7.0,6.0,5.0,5.7,6.1,6.5,7.0,4.0,Medium,High
+Europe,Western Europe,France,5.82,6.96,6.0,6.5,3.5,5.93,5.7,8.0,6.5,4.5,Medium,High
+Europe,Western Europe,Switzerland,4.87,7.04,5.0,7.0,2.0,4.63,5.1,5.0,7.5,2.5,Medium,High
+Europe,Western Europe,Belgium,4.43,7.04,5.0,6.0,2.0,5.17,3.7,7.0,6.5,2.5,Low,High
+Americas,North America,United States,5.67,7.13,6.0,8.0,4.5,5.83,5.5,6.5,7.5,3.0,Medium,High
+Americas,North America,Canada,3.88,7.21,4.0,6.5,2.0,3.87,3.9,6.0,5.0,2.5,Low,High
+Europe,Northern Europe,Lithuania,3.9,7.29,4.0,5.5,4.0,3.8,4.0,6.5,6.0,2.0,Low,High
+Europe,Western Europe,Ireland,5.08,7.33,5.0,6.0,4.0,5.17,5.0,8.0,6.0,5.5,Medium,High
+Asia,Eastern Asia,Japan,4.28,7.38,5.0,3.5,3.0,3.87,4.7,7.5,6.0,5.0,Low,High
+Oceania,Australia and New Zealand,Australia,4.0,7.38,3.5,7.5,2.5,4.3,3.7,7.0,7.0,4.5,Low,High
+Europe,Western Europe,Netherlands,4.97,7.46,5.5,7.5,3.0,5.23,4.7,6.5,5.0,2.5,Medium,High
+Europe,Northern Europe,Sweden,4.7,7.46,5.0,6.0,2.5,4.6,4.8,8.0,6.0,4.5,Medium,High
+Europe,Western Europe,Germany,5.33,7.5,6.0,6.5,2.0,5.47,5.2,6.0,7.5,5.5,Medium,High
+Europe,Western Europe,Austria,4.13,7.5,4.5,5.0,4.0,4.17,4.1,6.5,5.5,4.5,Low,High
+Americas,South America,Uruguay,3.22,7.5,3.0,4.0,3.0,3.33,3.1,6.5,4.0,4.0,Low,High
+Europe,Western Europe,Luxembourg,2.85,7.5,3.5,4.5,2.0,2.9,2.8,5.5,6.5,2.0,Low,High
+Europe,Western Europe,United Kingdom,5.75,7.54,7.0,6.5,3.5,5.5,6.0,6.5,7.5,6.0,Medium,High
+Europe,Northern Europe,Latvia,3.9,7.58,5.0,6.0,2.0,4.5,3.3,6.0,6.5,3.5,Low,High
+Asia,South-Eastern Asia,Singapore,3.47,7.83,5.5,6.5,1.5,3.93,3.0,7.5,6.0,2.0,Low,High
+Europe,Northern Europe,Estonia,4.25,7.88,4.5,7.0,2.0,4.2,4.3,8.0,7.0,2.5,Low,High
+Oceania,Australia and New Zealand,New Zealand,4.08,7.88,3.5,6.0,2.0,3.77,4.4,6.5,7.0,4.0,Low,High
+Europe,Northern Europe,Norway,3.75,7.92,5.0,5.5,1.5,4.1,3.4,7.0,5.0,3.0,Low,High
+Europe,Western Europe,Andorra,3.22,7.96,2.5,2.0,1.5,2.73,3.7,7.0,6.5,1.0,Low,High
+Asia,Eastern Asia,"Korea, Rep,",4.43,8.08,5.5,3.5,4.5,3.57,5.3,8.0,4.0,3.0,Low,High
+Europe,Northern Europe,Denmark,4.02,8.13,4.0,6.5,2.0,4.33,3.7,6.0,4.5,4.5,Low,High
+Europe,Northern Europe,Iceland,3.37,8.21,4.5,5.0,1.5,2.93,3.8,8.0,5.0,1.0,Low,High
+Europe,Western Europe,Liechtenstein,2.27,8.46,2.0,4.0,1.5,2.33,2.2,5.0,6.5,2.0,Low,High
+Europe,Northern Europe,Finland,2.98,8.63,3.5,5.0,1.5,3.27,2.7,8.5,4.0,2.5,Low,High
